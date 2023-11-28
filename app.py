@@ -3,7 +3,7 @@ from create_reg import Feature
 # pip3 freeze > requirements.txt 
 #.\venv\Scripts\activate 
 
-#test 2
+#test wer
 
 #Tworzenie instancji klasy
 #__name__ - nazwa modułu, z którego ta klasa będzie tworzona
